@@ -2,9 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/rsgamboa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rsgamboa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsgamboa&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsgamboa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  </div>
   
   <div style="display: inline_block" ><br>
   <img align="center" alt="rsgamboa-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
@@ -12,7 +11,7 @@
   <img align="center" alt="rsgamboa-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="rsgamboa-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="rsgamboa-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="rsgamboa-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="rsgamboa-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" >
   <img align="center" alt="rsgamboa-phyton" height="30" width="40" class="devicon-microsoftsqlserver-plain"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/49/4947a29964a5d2bd50478ec5873d1dd7_w200.gif">
