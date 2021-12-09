@@ -1,4 +1,4 @@
-### Olá! Eu Sou o Gamboa
+## Olá! Eu Sou o Gamboa
 
 <div align="center">
   <a href="https://github.com/rsgamboa">
@@ -14,7 +14,6 @@
   <img align="center" alt="rsgamboa-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="rsgamboa-phyton" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" >
   <img align="center" alt="rsgamboa-phyton" height="30" width="40" class="devicon-microsoftsqlserver-plain"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/origin/49/4947a29964a5d2bd50478ec5873d1dd7_w200.gif">
 </div>
   
