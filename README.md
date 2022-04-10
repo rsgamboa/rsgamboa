@@ -1,4 +1,6 @@
-## Olá! Eu Sou o Gamboa
+## Hi! I'm Gamboa
+
+<img src="https://pbs.twimg.com/profile_banners/2421531500/1633397375/1500x500">
 
 <div align="center">
   <a href="https://github.com/rsgamboa">
