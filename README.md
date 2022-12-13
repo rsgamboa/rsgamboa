@@ -1,28 +1,48 @@
-## Hi! I'm Gamboa
+
+<h1 align="center">Olá! 🖖 <a height="30"/> Eu sou o Gamboa 👉🌀</h1>
 
 <div align="center">
   
 <img src="https://c.tenor.com/TUIPgSc7J7YAAAAC/yusuke-urameshi-yu-yu-hakusho.gif" />
 
-  
-  <div style="display: inline_block" align="center"><br>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whit">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rsgamboa)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gam6oa)
+[![blogger](https://img.shields.io/badge/Blogger-0A66f2?style=for-the-badge&logo=blogger&logoColor=white
+)](https://gamboalink.blogspot.com)
+
 </div>
-  
-   
-  ##
- 
-<div> 
-  	<a href="https://www.twitter.com/gam6oa" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/rsgamboa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   
- 
- 
- 
+
+***
+- 📌 Sou **Analista de TI** e **Desenvolvedor Front-end.**
+
+- 🎓 Estou em minha segunda graduação, sou estudante no 7°semestre do **Bacharelado em Engenharia de Computação.**
+
+***
+## 🌀 &nbsp;Tech Stack
+### 🔹 &nbsp;Back-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![c-sharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
+### 🔹 &nbsp;Front-end
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+
+### 🔹 &nbsp;Database 
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+***
+&nbsp;
+## 📊 &nbsp;Stats
+&nbsp;
+
+<div align="center">
+  <a href="https://github.com/rsgamboa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsgamboa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsgamboa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
