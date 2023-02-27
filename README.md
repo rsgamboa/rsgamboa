@@ -41,12 +41,9 @@
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
+
+### 🔹 &nbsp;OS 
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows)&nbsp;
 ***
-&nbsp;
-## 📊 &nbsp;Stats
-&nbsp;
-
-![Gamboa github stats](https://github-readme-stats.vercel.app/api?username=rsgamboa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsgamboa&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/rsgamboa/github-readme-stats)
