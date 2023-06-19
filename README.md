@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi!, I'm Gamboa - System Analyst & Frontend Developer </h1>
+<h1 align="center">Hi!, I'm Gamboa - System Analyst | Full Stack Developer </h1>
 
 
 <div align="center">
@@ -15,7 +15,7 @@
 </div>
 
 ***
-- 📌 Sou **Analista de Sistemas** e **Desenvolvedor Front-end.**
+- 📌 Sou **Analista de Sistemas** | **Desenvolvedor Full Stack.**
 
 - 🎓 Estou em minha segunda graduação, sou estudante no 7°semestre do **Bacharelado em Engenharia de Computação.**
 
@@ -46,8 +46,21 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-020114?style=for-the-badge&amp;logo=mysql&amp;logoColor=F75B02)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-020114?style=for-the-badge&amp;logo=mariadb&amp;logoColor=F75B02)&nbsp;
 
+###  --&nbsp;Cloud 
+![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-020114?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=F75B02)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-020114?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=F75B02)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-020114?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=F75B02)&nbsp;
+
+###  --&nbsp;ERP 
+![Protheus](https://img.shields.io/badge/-Protheus-020114?style=for-the-badge&amp;logo=protheus&amp;logoColor=F75B02)&nbsp;
+![Alterdata](https://img.shields.io/badge/-Alterdata-020114?style=for-the-badge&amp;logo=alterdata&amp;logoColor=F75B02)&nbsp;
+
 ###  --&nbsp;OS 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-020114?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=F75B02)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-020114?style=for-the-badge&amp;logo=linux&amp;logoColor=F75B02)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-020114?style=for-the-badge&amp;logo=Windows&amp;logoColor=F75B02)&nbsp;
+
+###  --&nbsp;Studying
+![DuckDB](https://img.shields.io/badge/-DuckDB-020114?style=for-the-badge&amp;logo=DuckDB&amp;logoColor=F75B02)&nbsp;
+![R](https://img.shields.io/badge/-R-020114?style=for-the-badge&amp;logo=R&amp;logoColor=F75B02)&nbsp;
 ***
