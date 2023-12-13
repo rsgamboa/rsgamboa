@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi!, I'm Gamboa - System Analyst | Full Stack Developer </h1>
+<h1 align="center">Hi!, I'm Gamboa - Systems Analyst | Full Stack Developer </h1>
 
 
 <div align="center">
@@ -17,7 +17,7 @@
 ***
 - 📌 Sou **Analista de Sistemas** | **Desenvolvedor Full Stack.**
 
-- 🎓 Estou em minha segunda graduação, sou estudante no 8°semestre do **Bacharelado em Engenharia de Computação.**
+- 🎓 Estou em minha segunda graduação, sou estudante no 9°semestre do **Bacharelado em Engenharia de Computação.**
 
 ***
 
@@ -63,4 +63,5 @@
 ###  --&nbsp;Studying
 ![DuckDB](https://img.shields.io/badge/-DuckDB-1a1c20?style=for-the-badge&amp;logo=DuckDB&amp;logoColor=4d7c93)&nbsp;
 ![R](https://img.shields.io/badge/-R-1a1c20?style=for-the-badge&amp;logo=R&amp;logoColor=4d7c93)&nbsp;
+![Go](https://img.shields.io/badge/go-1a1c20?style=for-the-badge&amp;logo=go&amp;logoColor=4d7c93)&nbsp;
 ***
