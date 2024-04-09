@@ -1,25 +1,15 @@
 
-<h1 align="center">Hi!, I'm Gamboa - Systems Analyst | Full Stack Developer </h1>
+<h1 align="center">Hi!, I'm Gamboa </h1>
 
 
 <div align="center">
   
 <img src="/ngnlf.gif" />
 
-
-<p><a href="mailto:rsanchesgamboa@gmail.com"><img src="https://img.shields.io/badge/-rsanchesgamboa@gmail.com-1a1c20?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=4d7c93&amp;color:FFF" alt="E-mail"></a>
-<a href="https://www.linkedin.com/in/rsgamboa"><img src="https://img.shields.io/badge/-LinkedIn-1a1c20?style=for-the-badge&amp;logo=linkedin&amp;logoColor=4d7c93&amp;color:FFF" alt="LinkedIn"></a>
-<a href="https://twitter.com/gam6oa"><img src="https://img.shields.io/badge/-twitter-1a1c20?style=for-the-badge&amp;logo=twitter&amp;logoColor=4d7c93&amp;color:FFF" alt="Twitter"></a></p>
 </div>
 
-</div>
+##
 
-***
-- 📌 Sou **Analista de Sistemas** | **Desenvolvedor Full Stack.**
-
-- 🎓 Estou em minha segunda graduação, sou estudante no 9°semestre do **Bacharelado em Engenharia de Computação.**
-
-***
 
 ## &nbsp;Stacks
 
